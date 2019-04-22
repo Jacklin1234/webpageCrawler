@@ -1,4 +1,4 @@
 # webpageCrawler
 
-The supreme_v1.py is the automated shopping script for Supreme, but the countdown is not resolved yet.
+The supreme_v1.py is the automated shopping script for Supreme, but the countdown is not resolved yet.\n
 自动化从Supreme官网购买商品
